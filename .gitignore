@@ -1,0 +1,13 @@
+# Ignore compiled CSS files
+*.css
+
+# Ignore node_modules directory if using Node.js/npm
+node_modules/
+
+# Ignore any temporary files or directories
+.temp/
+.cache/
+.build/
+
+# Ignore any compiled output directories
+dist/
